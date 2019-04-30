@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite Explorer", "Infinite Explorer\Infinite Explorer.csproj", "{3A0B12B9-FDDA-4DD7-B657-A1F2963E20DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apparat", "..\..\apparat\EngineLib\Apparat.csproj", "{A544C054-CF21-4078-88CF-CD9DECE28576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3A0B12B9-FDDA-4DD7-B657-A1F2963E20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A0B12B9-FDDA-4DD7-B657-A1F2963E20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A0B12B9-FDDA-4DD7-B657-A1F2963E20DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A544C054-CF21-4078-88CF-CD9DECE28576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A544C054-CF21-4078-88CF-CD9DECE28576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A544C054-CF21-4078-88CF-CD9DECE28576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A544C054-CF21-4078-88CF-CD9DECE28576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
